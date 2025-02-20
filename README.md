@@ -1,5 +1,5 @@
 # DA_jjlee
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=welcome%20to%20j^2's%20github&fontSize=70)
 
 ### 📋 languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
