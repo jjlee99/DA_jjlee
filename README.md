@@ -1,5 +1,5 @@
 # DA_jjlee
-#![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome%20to-nl-j²'s%20github&fontSize=70&desc=hello%20stranger😘)
+#![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome%20to-nl-j²'s%20github-nl--nl--nl-&fontSize=70&desc=hello%20stranger😘)
 ### 📋 languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
