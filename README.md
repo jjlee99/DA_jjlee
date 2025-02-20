@@ -1,6 +1,6 @@
 # DA_jjlee
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20j²'s%20github&fontAlignY=40&fontSize=70&desc=hello%20stranger😘&animation=fadeIn)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=lets+see+what+this+devnoob+did;this+is+my+journey+to+the+professional+deep+learning+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=take+a+look+👀;this+is+my+journey+to+the+professional+deep+learning+engineer)](https://git.io/typing-svg)
 ### 📋 languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
